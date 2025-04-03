@@ -17,7 +17,7 @@
 <h3> 🤝🏻 &nbsp;Fale comigo: </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/joanaeliseal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joana%20Elise%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/joanaelise/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joana%20Elise%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/joanaelise/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-joanaelise_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:joanaelise@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joanaelise@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
